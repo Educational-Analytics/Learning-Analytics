@@ -43,12 +43,19 @@ Learning 4 | 0.2 | 0.3 | 0.4 |
 ### Notes des apprenants par activité pour un cours précis
 
 Prénom | Nom | Activité 1 | Activité 2 | Activité 3 | Activité 4 | Moyenne de notes des activités|
-|---------|------------|------------|------------|---------|---------|
-|Arthur | Vidal  | 9 | 6 | 6 | 15 | 9 |
-|Camille | Blanc| 11 | 6 | 14 | 13 | 11 |
-|Evan| Lemaitre | 2 | 10 | 19 | 11 | 10.5 |
-|Adrien| Lip | 20 | 17 | 3 | 15 | 13.75 |
-|Anais | Lefevre | 9 | 1 | 7 | 4 | 10.25 |
+|------|-----|------------|------------|------------|------------|-------------------------------|
+Arthur | Vidal | 17 |	8 |	17 | 15 |	14.25|
+Camille	| Blanc |	14 | 18 | 3 |	13 | 12 |
+Evan | Lemaitre | 20 | 9 | 16 |	14 | 14.75 |
+Adrien | Lip | 10 | 14 | 20 | 16 | 15 |
+Anais | Lefevre | 10 | 8 | 13 | 9 | 10 |
+Clemence |Garnier | 13 | 6 | 13 | 10 | 10.5|
+Leo	| Dumas |	17	| 5 |	13	 | 12	 | 11.75 |
+Matteo | Orsat	| 20 |	19 |	20 |	17 |	19 |
+Maxime | Laporte	| 2 |	8 |	17 |	17 | 11|
+
+
+
 ## Indicateur recommandé
 
 Indicateur: Pourcentage de réalisation de l'activité
