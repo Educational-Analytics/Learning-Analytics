@@ -17,8 +17,18 @@ Pour ce qui concerne les apprenants la vision est différente. Contrairement aux
 ## Inputs
 
 ### Logdata
+
+Prénom | Nom | ID (int)|
+Arthur | Nom | ID (int)|
+Prénom| Nom | ID (int)|
+Prénom| Nom | ID (int)|
+Prénom| Nom | ID (int)|
+Prénom| Nom | ID (int)|
+
   
 ### Activités pour chaque cours
+
+Learnings | Activité 1 | Activité 2 | Activité 3 | 
 
 ### Notes des apprenants par activité pour un cours précis
 
