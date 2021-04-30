@@ -20,18 +20,22 @@ Pour ce qui concerne les apprenants la vision est différente. Contrairement aux
 
 
 
-|Prénom | Nom  | ID (int)|
+|Prénom |  Nom  | ID (int)|
 |-------|------|---------|
-|Arthur | Vidal| 5|
+|Arthur | Vidal  | 5|
 |Camille | Blanc| 6|
-|Evan| Lemaitre| 8|
-|Adrien| Lip| 23|
-|Anais | Lefevre| 9|
+|Evan| Lemaitre | 8|
+|Adrien| Lip | 23|
+|Anais | Lefevre | 9|
 
   
-### Activités pour chaque cours
+### Pourcentage moyen de réalisation par activité par cours
 
 Learnings | Activité 1 | Activité 2 | Activité 3 | 
+Learning 1 | 0.7 | 0.8 | 0.8 |
+Learning 2 | 0.5 | 0.4 | 0.3 |
+Learning 3 | 0.6 | 0.5 | 0.6 |
+Learning 4 | 0.2 | 0.3 | 0.4 |
 
 ### Notes des apprenants par activité pour un cours précis
 
