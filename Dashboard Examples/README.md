@@ -41,7 +41,7 @@ Le graph en dessous permet à l’apprenant de connaitre les notes par élevé e
 
 ### Objectif apprenants
 
-D’autre part, la création d’un Dashboard aide aussi l’apprenant à avoir une idée générale de sa performance personnelle mais aussi en fonction de la classe. Ici il trouvera sa moyenne générale, la moyenne générale de la classe, son rang de classe, le pourcentage de réalisation des activités, l’activité réalisée et celles à venir.
+D’autre part, la création d’un Dashboard aide aussi l’apprenant à avoir une idée générale de sa performance personnelle mais aussi en fonction de la classe. Ici il trouvera son rang de classe, le pourcentage de réalisation des activités, l’activité réalisée et celles à venir.
 
 ![Dashboard Eleve](https://github.com/Hype-13/Learning-Analytics/blob/main/Dashboard%20Examples/Exemples/Exemple%20Dashboard%20Eleve.png)
 
