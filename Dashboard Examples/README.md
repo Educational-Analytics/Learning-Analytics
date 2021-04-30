@@ -33,7 +33,9 @@ Indicateur: Pourcentage de réalisation de l'activité
 Pour un cours de mathématique on a 4 activités différentes qui ont été données aux apprenants. Un Dashboard permettant de connaitre la performance de la classe est fait afin de proposer une visualisation simple, claire mais pertinente à l’enseignant.
 Premièrement, il dispose d’une liste de tous les élèves du cours donné. A droite on trouve la moyenne du cours pour chaque élève mais aussi leur rang en fonction de leur moyenne.
 ![Dashboard Intéractif Professeur](https://github.com/Hype-13/Learning-Analytics/blob/main/Dashboard%20Examples/Exemples/Exemple%20Dashboard%20Professeur.PNG)
+
 Le graph en dessous permet à l’apprenant de connaitre les notes par élevé et par activité. La séquence se trouvant au-dessus pour chaque activité correspond à la meilleure note et la couleur à un élève. Ainsi, l’enseignant fait connaissance de la performance par élève au cours des activités. Si un élève se trouve toujours dans la même position séquentielle pour toutes les activités alors le professeur pourra conclure que son engagement est constant. Tandis que si la position de l’élève en fonction des activités varie de manière importante il pourra observer un désengagement et envisager de l’aide supplémentaire nécessaire pour l’apprenant concerné.
+
 ![Dashboard Intéractif Professeur](https://github.com/Hype-13/Learning-Analytics/blob/main/Dashboard%20Examples/Exemples/Exemple%20Dashboard%20Interactif%20Professeur.PNG)
 
 ### Objectif apprenants
