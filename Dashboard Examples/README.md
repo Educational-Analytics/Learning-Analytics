@@ -29,7 +29,9 @@ Pour ce qui concerne les apprenants la vision est différente. Contrairement aux
 |Anais | Lefevre | 9|
 
   
-### Pourcentage moyen de réalisation par activité par cours
+### Pourcentage moyen de réalisation de l'activité par cours
+
+Dans ce tableau on trouve différents cours avec ces différentes activités. Les activités ne sont pas réalisées à 100% par tous les élèves, un pourcentage de réalisation est mesuré pour chaque activité. Ici on a pris une moyenne des pourcentages de réalisation des activités de tous les élèves pour chaque activités des 4 learnings.
 
 Learnings | Activité 1 | Activité 2 | Activité 3 | 
 |---------|------------|------------|------------|
@@ -40,6 +42,13 @@ Learning 4 | 0.2 | 0.3 | 0.4 |
 
 ### Notes des apprenants par activité pour un cours précis
 
+Prénom | Nom | Activité 1 | Activité 2 | Activité 3 | Activité 4 | Moyenne de notes des activités|
+|---------|------------|------------|------------|---------|---------|
+|Arthur | Vidal  | 9 | 6 | 6 | 15 | 9 |
+|Camille | Blanc| 11 | 6 | 14 | 13 | 11 |
+|Evan| Lemaitre | 2 | 10 | 19 | 11 | 10.5 |
+|Adrien| Lip | 20 | 17 | 3 | 15 | 13.75 |
+|Anais | Lefevre | 9 | 1 | 7 | 4 | 10.25 |
 ## Indicateur recommandé
 
 Indicateur: Pourcentage de réalisation de l'activité
