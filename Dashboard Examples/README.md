@@ -1,7 +1,7 @@
 # Example de Dashboard interactif
 ## Description courte du scenario d’analyse
 
-Dans le cadre de cette analyse on cherche à développer au maximum les ressources des plateforme d’enseignement comme Moodle afin de proposer aux 3 grands acteurs d’un établissement : administrateurs, enseignants et apprenants, une meilleure vision des indicateurs de performance au sein des cours impartis.
+Dans le cadre de cette analyse on cherche à développer au maximum les ressources des plateformes d’enseignement comme Moodle afin de proposer aux 3 grands acteurs d’un établissement : administrateurs, enseignants et apprenants, une meilleure vision des indicateurs de performance au sein des cours impartis.
 
 ## Cas d’utilisation
 
