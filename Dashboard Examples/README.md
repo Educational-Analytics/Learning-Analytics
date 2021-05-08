@@ -9,7 +9,7 @@ De nombreux Dashboard sont créés afin d’aider les élèves et les enseignant
 
 ### Orientés enseignants
 
-Dans le cas concernant l’enseignant, il cherche à connaitre de plus près comment chaque apprenant réalise les activités de son cours et à quel pourcentage elles ont été réalisées. Ceci lui permet d’avoir non seulement une vue personnalisé mais aussi une vue générale des comportements de classe au fur et à mesure que les activités du cours sont réalisées.
+Dans le cas concernant l’enseignant, il cherche à connaitre de plus près comment chaque apprenant réalise les activités de son cours et à quel pourcentage elles ont été réalisées. Ceci lui permet d’avoir non seulement une vue personnalisée mais aussi une vue générale des comportements de classe au fur et à mesure que les activités du cours sont réalisées.
 
 ### Orientés apprenants
 
