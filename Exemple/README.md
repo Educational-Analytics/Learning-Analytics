@@ -2,7 +2,7 @@
 ***
 Dans cette partie du projet, nous allons étudier les différents impacts des ressources sur la scolarité des étudiants suivants des cours hybridés ou non. 
 
-La comparaison du nombre d'inscrit aux cours en ligne au fil des années peut aussi être intérssante pour voir si les cours en lignes attirent les étudiants ou non. Cela permett aussi de voir si les campus ont mis en plus plus de cours en ligne ou non. 
+La comparaison du nombre d'inscrit aux cours en ligne au fil des années peut aussi être intérssante pour voir si les cours en lignes attirent les étudiants ou non. Cela permett aussi de voir si les campus ont mis de plus en plus de cours en ligne ou non. 
 
 Nous allons aussi étudier les différentes relations qui existent entre les étudiants via les forums sous les ressources qui sont un moyens de disucssion entre les campus. 
 
