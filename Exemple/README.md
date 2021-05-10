@@ -25,14 +25,24 @@ Echantillonnage
 
 ### Orientés concepteurs
 
-Pour un concepteur de vidéo de cours en ligne, le fait que certain étudiant ne suive pas toutes les vidéos ou quizz lui permettra de faire un tri sur les ressources non suivis par la plus part des étudiants. Mais aussi de sanctionner les étudiants qui ne suivent pas assez voir pas du tout les modules. 
+Pour un concepteur de vidéo de cours en ligne, le fait que certain étudiant ne suive pas toutes les vidéos ou quizz lui permettra de faire un tri sur les ressources non suivis par la plus part des étudiants.
+
+### Orientés enseignants
+
+Les enseignants, quant à eux auront la possibilité de suivre la proggresion de leurs étudiants et sanctionner ceux qui ne suivent que tèrs partiellement voir pas du tout les modules en ligne.
+
+### Orientés apprenants
+
+Les enseignants, quant à euxn auront la possibilité de suivre la proggresion de leurs étudiants et sanctionner ceux qui ne suivent que tèrs partiellement voir pas du tout les modules en ligne.
 
 
 ### Orientés chercheurs
 
-On peut donc catégeoriser les étudiants suivant leur mode de suivi des cours : ceux qui suivent totalement le module en faisant toutes les ressources à la suite, ceux qui suivent une bonne partie mais pas complètement, ceux qui complètent les ressources partiellement, ceux qui suivent très peu les différentes étapes de la partie ressource et enfin ceux qui sautent énormément de ressources voir qu'ils n'en suivent pas du tout. 
+On peut donc catégeoriser les étudiants suivant leur mode de suivi des cours : ceux qui suivent totalement le module en faisant toutes les ressources à la suite, ceux qui suivent une bonne partie mais pas complètement, ceux qui complètent les ressources partiellement, ceux qui suivent très peu les différentes étapes de la partie ressource et enfin ceux qui sautent énormément de ressources voir qu'ils n'en suivent pas du tout. Les absences réflètent aussi ce non-suivi des cours et permettent d'appuyer l'explication de la chute des notes des étudiants. Un étudiant ayant beaucoup d'absences verra son niveau baissé. 
 
-Les absences sont réflètent aussi ce non-suivi des cours et permette d'apputer l'explication de la chute des notes des étudiants. Un étudiant ayant beaucoup d'absences verra son niveau baissé. 
+Quant aux inscriptions au sein d'un campus qui a mis en place l'hybridation des cours, il sera intéréssant de comparer ce nombre suivant les années. 
+
+Enfin, pour la partie des messages, il est intérssant de voir quelles sont les relations possibles entre étudiants et professeurs et quels campus échangent le plus. 
 
 ## Inputs
 
