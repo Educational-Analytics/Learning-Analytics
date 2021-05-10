@@ -6,6 +6,8 @@ La comparaison du nombre d'inscrit aux cours en ligne au fil des années peut au
 
 Nous allons aussi étudier les différentes relations qui existent entre les étudiants via les forums sous les ressources qui sont un moyens de disucssion entre les campus. 
 
+De plus, sous les ressources, il est possible de communiquer via des messages si l'étudiant à des questions. L'étude du type de messages envoyé, c'est à dire un message entre deux étudiants, ou bien entre un étudiant et un professeur ou bien entre deux professeurs, permettra de voir quel cours est le plus actif tout comme quel professeur l'est aussi. 
+
 # Echantillonage au sein d'une séquence pédagogique 
 
 ## Description courte du scénario d'analyse
