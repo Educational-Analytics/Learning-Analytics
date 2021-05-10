@@ -46,7 +46,19 @@ Enfin, pour la partie des messages, il est intérssant de voir quelles sont les 
 
 ## Inputs
 
-### logdata
+Etude des notes/absences en fonction des pourcentges de suivi 
+
+|User id |  Absences  | Notes| Pourcentage de suivi |
+|-------|------|---------|
+|21 | 29  | 11| 20-40|
+|22 | 21| 13|40-60 |
+|23| 22 | 12|40-60 |
+|24| 21 | 15|40-60 |
+|25 | 18 | 16|60-80 |
+
+### Séquence pédagogique 
+
+## Outputs
 
 |Pourcentage de suivi |  Moyenne des absences  | Moyenne des notes|
 |-------|------|---------|
@@ -55,10 +67,6 @@ Enfin, pour la partie des messages, il est intérssant de voir quelles sont les 
 |40-60| 22.814815 | 13.333333|
 |60-80| 13.074074 | 15.333333|
 |80-100 | 3.148148 | 19.000000|
-
-### Séquence pédagogique 
-
-## Outputs
 
 ## Indicateurs recommandés
 
