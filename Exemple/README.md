@@ -78,6 +78,15 @@ Etude des inscriptions en fonction des campus et des années
 |60-80| 13.074074 | 15.333333|
 |80-100 | 3.148148 | 19.000000|
 
+
+|Année d'inscription |  Campus  | Nombre d'inscription|
+|-------|------|---------|
+|2015 | CYTech  | 2|
+|2015 | EcolePolytechnique| 3|
+|2015| ESSEC | 1|
+|2015| HEC | 3|
+|2015 | SciencePo | 3|
+
 ## Indicateurs recommandés
 
 ## Exemple 
