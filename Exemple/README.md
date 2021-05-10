@@ -46,6 +46,10 @@ Les absences sont réflètent aussi ce non-suivi des cours et permette d'apputer
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/C.PNG)
 
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/D.PNG)
+
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/E.PNG)
+
 ## Bibliographie 
 
 ## Légitimisation de l'analyse
