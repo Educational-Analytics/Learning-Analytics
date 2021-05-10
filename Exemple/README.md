@@ -48,6 +48,14 @@ Enfin, pour la partie des messages, il est intérssant de voir quelles sont les 
 
 ### logdata
 
+|Prénom |  Nom  | ID (int)|
+|-------|------|---------|
+|Arthur | Vidal  | 5|
+|Camille | Blanc| 6|
+|Evan| Lemaitre | 8|
+|Adrien| Lip | 23|
+|Anais | Lefevre | 9|
+
 ### Séquence pédagogique 
 
 ## Outputs
