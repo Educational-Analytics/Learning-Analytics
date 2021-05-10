@@ -66,6 +66,16 @@ Etude des inscriptions en fonction des campus et des années
 |SciencePo| 2015 | 
 |SciencePo | 2016 | 
 
+Etude des types de messages échangés en fonction des modules 
+
+|Course id|  Module  | Type de message échangé |
+|-------|------|-----|
+|11 | DeepLearning  | étudiantvsprof
+|12 | Sociologie| étudiantvsétudiant
+|13| TheorieInformation | profvsprof
+|14| ModeleSequence | étudiantvsprof
+|15 | TextMining | étudiantvsétudiant
+
 ### Séquence pédagogique 
 
 ## Outputs
