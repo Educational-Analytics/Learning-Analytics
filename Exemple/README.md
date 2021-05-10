@@ -1,6 +1,6 @@
 # Partie Learning Analytics 
 ***
-Dans cette partie du projet, nous allons étudier les différents impacts des ressources sur la scolarité des étudiants suivants des cours hybridés ou non. 
+Dans cette partie du projet, nous allons étudier les différents impacts des ressources sur la scolarité des étudiants suivants des cours hybridés ou non. Nous allons aussi étudier les différentes relations qui existent entre les étudiants via les forums sous les ressources qui sont un moyens de disucssion entre les campus. 
 
 # Echantillonage au sein d'une séquence pédagogique 
 
