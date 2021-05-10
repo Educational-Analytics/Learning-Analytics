@@ -56,6 +56,16 @@ Etude des notes/absences en fonction des pourcentges de suivi
 |24| 21 | 15|40-60 |
 |25 | 18 | 16|60-80 |
 
+Etude des inscriptions en fonction des campus et des années
+
+|Campus|  Année d'inscrpition  | 
+|-------|------|
+|Sorbonne | 2017  | 
+|Sorbonne | 2019| 
+|SciencePo| 2018 | 
+|SciencePo| 2015 | 
+|SciencePo | 2016 | 
+
 ### Séquence pédagogique 
 
 ## Outputs
