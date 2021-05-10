@@ -76,7 +76,6 @@ Etude des types de messages échangés en fonction des modules
 |14| ModeleSequence | étudiantvsprof
 |15 | TextMining | étudiantvsétudiant
 
-### Séquence pédagogique 
 
 ## Outputs
 
@@ -105,11 +104,10 @@ Etude des types de messages échangés en fonction des modules
 |étudiantvsétudiant| TextMining | 6|
 |étudiantvsétudiant | TheorieInformation | 5|
 
-## Indicateurs recommandés
 
 ## Exemple 
 
-![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/A.PNG)
+![Hello](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/A.PNG)
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/B.PNG)
 
