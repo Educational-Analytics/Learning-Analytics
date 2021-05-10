@@ -97,6 +97,14 @@ Etude des types de messages échangés en fonction des modules
 |2015| HEC | 3|
 |2015 | SciencePo | 3|
 
+|Type de message |  Module  | Nombre de messages|
+|-------|------|---------|
+|étudiantvsétudiant | DeepLearning  | 5|
+|étudiantvsétudiant | ModeleSequence| 10|
+|étudiantvsétudiant| Sociologie | 9|
+|étudiantvsétudiant| TextMining | 6|
+|étudiantvsétudiant | TheorieInformation | 5|
+
 ## Indicateurs recommandés
 
 ## Exemple 
