@@ -25,14 +25,10 @@ Echantillonnage
 
 ### Orientés concepteurs
 
-#### Identification des ressources peu utilisées 
-
 Pour un concepteur de vidéo de cours en ligne, le fait que certain étudiant ne suive pas toutes les vidéos ou quizz lui permettra de faire un tri sur les ressources non suivis par la plus part des étudiants. Mais aussi de sanctionner les étudiants qui ne suivent pas assez voir pas du tout les modules. 
 
 
 ### Orientés chercheurs
-
-#### Typologie des comportements d’échantillonnage
 
 On peut donc catégeoriser les étudiants suivant leur mode de suivi des cours : ceux qui suivent totalement le module en faisant toutes les ressources à la suite, ceux qui suivent une bonne partie mais pas complètement, ceux qui complètent les ressources partiellement, ceux qui suivent très peu les différentes étapes de la partie ressource et enfin ceux qui sautent énormément de ressources voir qu'ils n'en suivent pas du tout. 
 
