@@ -119,7 +119,11 @@ Dans cette partie, nous allons nous concentrer sur l'étude des différents mess
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/C.PNG)
 
+L'utilisation des réseaux sociaux permet de visualier les relations entre les étudiants à travers les messages échangés. En effet, les étudiants de différents campus peuvent communiquer et intéragir dans le forum d'un module commun. Dans les prochains schémas, on peut constater quels campus intéragissent le plus entre eux. 
+
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/D.PNG)
+
+Ici, on se concentre sur un seul étudiant pour voir avec qui il a des relations. Lorsque l'on regarde les intéractions de Max qui vient de HEC, on peut voir qu'il a échangé avec un autre étudiant de son campus mais aussi avec deux étudiants de l'Université de Lille et un autre venant de l'Ecole Polytechnique. 
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/E.PNG)
 
