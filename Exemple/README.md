@@ -107,7 +107,11 @@ Etude des types de messages échangés en fonction des modules
 
 ## Exemple 
 
+Comme on peut le constater dans le graph suivant, la moyenne des notes des étudiants chute considérablement lorsque ceux ci ne suivent pas correctement les différentes ressources dans un module. De plus, un étudiant très fréquement absent voit aussi ses notes chutés, ce qui est logique. 
+
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/A.PNG)
+
+Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque directement qu'en 2017 le campus CYTech compte un nombre très élevé d'incriptions aux cours en ligne. 
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/B.PNG)
 
