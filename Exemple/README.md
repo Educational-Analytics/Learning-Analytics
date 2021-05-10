@@ -49,7 +49,7 @@ Enfin, pour la partie des messages, il est intérssant de voir quelles sont les 
 Etude des notes/absences en fonction des pourcentges de suivi 
 
 |User id |  Absences  | Notes| Pourcentage de suivi |
-|-------|------|---------|
+|-------|------|---------|-------|
 |21 | 29  | 11| 20-40|
 |22 | 21| 13|40-60 |
 |23| 22 | 12|40-60 |
