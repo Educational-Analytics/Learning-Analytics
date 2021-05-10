@@ -40,7 +40,7 @@ Les absences sont réflètent aussi ce non-suivi des cours et permette d'apputer
 
 ## Exemple 
 
-![Alt text](/A.PNG "Optional Title")
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/A.PNG "Optional Title")
 
 ## Bibliographie 
 
