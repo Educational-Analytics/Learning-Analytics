@@ -48,13 +48,13 @@ Enfin, pour la partie des messages, il est intérssant de voir quelles sont les 
 
 ### logdata
 
-|Prénom |  Nom  | ID (int)|
+|Pourcentage de suivi |  Moyenne des absences  | Moyenne des notes|
 |-------|------|---------|
-|Arthur | Vidal  | 5|
-|Camille | Blanc| 6|
-|Evan| Lemaitre | 8|
-|Adrien| Lip | 23|
-|Anais | Lefevre | 9|
+|0-20 | 49.333333  | 5.777778|
+|20-40 | 35.259259| 10.851852|
+|40-60| 22.814815 | 13.333333|
+|60-80| 13.074074 | 15.333333|
+|80-100 | 3.148148 | 19.000000|
 
 ### Séquence pédagogique 
 
