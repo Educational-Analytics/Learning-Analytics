@@ -111,7 +111,7 @@ Comme on peut le constater dans le graph suivant, la moyenne des notes des étud
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/G.PNG)![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/F.PNG)
 
-Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque directement qu'en 2017 le campus CYTech compte un nombre très élevé d'incriptions aux cours en ligne. En contraste, l'Université de Lille enregristre le moins d'inscriptions durant l'année 2017.  
+Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque qu'en 2020le campus de la Sorbonne compte un nombre très élevé d'incriptions. En contraste, CYTech enregristre le moins d'inscriptions durant l'année 2020.  
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/H.PNG)
 
