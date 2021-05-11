@@ -117,6 +117,8 @@ Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque qu'en
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/I.PNG)
 
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/J.PNG)
+
 Dans cette partie, nous allons nous concentrer sur l'étude des différents messages échangés à l'aide des databases que nous avons créé plus haut. On constate en premier lieu que dans l'intéraction étudiant/professeur, le module Deep Learning est en tête. Le professeur de cette matière est très actif au contraire des professeurs de Modèle Sequence et de Théorie de l'Information. 
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/C.PNG)
