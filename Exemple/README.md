@@ -113,7 +113,7 @@ Comme on peut le constater dans le graph suivant, la moyenne des notes des étud
 
 Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque directement qu'en 2017 le campus CYTech compte un nombre très élevé d'incriptions aux cours en ligne. En contraste, l'Université de Lille enregristre le moins d'inscriptions durant l'année 2017.  
 
-![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/B.PNG)
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/H.PNG)
 
 Dans cette partie, nous allons nous concentrer sur l'étude des différents messages échangés à l'aide des databases que nous avons créé plus haut. On constate en premier lieu que dans l'intéraction étudiant/professeur, le module Deep Learning est en tête. Le professeur de cette matière est très actif au contraire des professeurs de Modèle Sequence et de Théorie de l'Information. 
 
