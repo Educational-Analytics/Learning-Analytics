@@ -109,7 +109,7 @@ Etude des types de messages échangés en fonction des modules
 
 Comme on peut le constater dans le graph suivant, la moyenne des notes des étudiants chute considérablement lorsque ceux ci ne suivent pas correctement les différentes ressources dans un module. De plus, un étudiant très fréquement absent voit aussi ses notes chutés, ce qui est logique. 
 
-![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/L.PNG)![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/M.PNG)
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/M.PNG)![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/L.PNG)
 
 Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque qu'en 2020le campus de la Sorbonne compte un nombre très élevé d'incriptions. En contraste, CYTech enregristre le moins d'inscriptions durant l'année 2020.  
 
