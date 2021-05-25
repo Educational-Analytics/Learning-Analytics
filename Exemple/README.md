@@ -131,6 +131,8 @@ Ici, on se concentre sur un seul étudiant pour voir avec qui il a des relations
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/P.PNG)
 
+![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/Q.PNG)
+
 ## Bibliographie 
 
 ## Légitimisation de l'analyse
