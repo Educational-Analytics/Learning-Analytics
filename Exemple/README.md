@@ -111,7 +111,7 @@ Comme on peut le constater dans le graph suivant, la moyenne des notes des étud
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/M.PNG)![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/L.PNG)
 
-Dans l'étude du nombre d'inscriptions en fonction des campus, on remarque qu'en 2021 le campus de CY-Tech et de l'Ecole Polytechnique comptent un nombre très élevé d'incriptions. On peut voir aussi que depuis 2019, le nombre d'inscriptions à augmenter dans tous les campus. Par contre, en 2021 c'est SciencePo qui compte le moins d'inscriptions. 
+Dans l'étude du nombre d'inscriptions en cours hybridés en fonction des campus, on remarque qu'en 2021 le campus de CY-Tech et de l'Ecole Polytechnique comptent un nombre très élevé d'incriptions. Cela signifique qu'ils ont mis un place des cours hybridés qui attirent beaucoup d'étudiants. On peut voir aussi que depuis 2019, le nombre d'inscriptions à augmenter dans tous les campus : l'hybridation se démocratise un peu partout. Par contre, en 2021 c'est SciencePo qui compte le moins d'inscriptions, on peut en déduire qu'ils ont du mal à instaurer les cours en ligne dans leur campus. 
 
 ![Alt text](https://github.com/Hype-13/Learning-Analytics/blob/main/Exemple/Image/N.PNG)
 
